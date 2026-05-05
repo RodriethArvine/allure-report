@@ -1,3 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","28308","Valid mobile login","","2026-05-05","passed","2026-05-05","","","",""
+"","34531","Valid mobile login","","2026-05-05","passed","2026-05-05","","","",""
 "/Users/ro20559214/PycharmProjects/gcp/mobile_banking/features/swaglabs_login.feature: Valid mobile login","22443","test_valid_mobile_login","mobile_banking.step_definitions","2026-05-05","failed","2026-05-05","","test_swaglabs_login","",""
