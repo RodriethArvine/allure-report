@@ -1,1 +1,1 @@
-{"total":2,"items":[{"uid":"31cc957b5c184ade1e8091043db8fd5a","name":"SwagLabs Login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{"total":2,"items":[{"uid":"e76aa74978f4c3d3295b2546ddceddcb","name":"OrangeHRM Admin User Management","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"8c1895e6cb51ad97260120776cf994ae","name":"OrangeHRM Login","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
