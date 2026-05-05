@@ -1,0 +1,1 @@
+2026-05-05 16:32:42 | INFO | unified_framework | api_validation/step_definitions/test_orangehrm_login_api.py::test_login_api_returns_token | PASSED
