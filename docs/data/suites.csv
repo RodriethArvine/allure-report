@@ -1,3 +1,2 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","14762","Valid admin login","","2026-05-06","passed","2026-05-06","","","",""
-"","43663","Add admin user","","2026-05-06","failed","2026-05-06","","","",""
+"","91723","Valid mobile login","","2026-05-06","passed","2026-05-06","","","",""
