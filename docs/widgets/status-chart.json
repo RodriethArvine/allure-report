@@ -1,1 +1,1 @@
-[{"uid":"a70f198ad268a6c8","name":"Valid mobile login","time":{"start":1778082262683,"stop":1778082338752,"duration":76069},"status":"passed","severity":"normal"}]
+[{"uid":"4194ce6780191048","name":"Valid mobile login","time":{"start":1778082456185,"stop":1778082482405,"duration":26220},"status":"failed","severity":"normal"}]
