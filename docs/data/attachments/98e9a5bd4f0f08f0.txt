@@ -1,1 +1,0 @@
-2026-05-05 16:50:46 | INFO | unified_framework | mobile_banking/step_definitions/test_swaglabs_add_cart.py::test_login_and_add_product_from_cross_channel | FAILED

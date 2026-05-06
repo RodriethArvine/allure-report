@@ -1,1 +1,0 @@
-2026-05-05 17:42:42 | INFO | unified_framework | mobile_banking/step_definitions/test_swaglabs_login.py::test_valid_mobile_login | PASSED

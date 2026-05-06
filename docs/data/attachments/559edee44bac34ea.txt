@@ -1,1 +1,0 @@
-2026-05-05 16:33:11 | INFO | unified_framework | mobile_banking/step_definitions/test_swaglabs_add_cart.py::test_add_product_to_cart | FAILED
