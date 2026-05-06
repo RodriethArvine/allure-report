@@ -1,1 +1,1 @@
-{"163ceced2dbf7bf7ccd0e3ec0cf939e0":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"4194ce6780191048","status":"failed","statusDetails":"AssertionError: Biometric screen is not visible\nassert False","time":{"start":1778082456185,"stop":1778082482405,"duration":26220}}]}}
+{"163ceced2dbf7bf7ccd0e3ec0cf939e0":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"5fad97b66c4fde6b","status":"passed","time":{"start":1778082682899,"stop":1778082716803,"duration":33904}}]}}
