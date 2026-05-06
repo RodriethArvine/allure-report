@@ -1,1 +1,1 @@
-[{"uid":"ea208a10faa8f6bb","name":"Valid mobile login","time":{"start":1778084052274,"stop":1778084091745,"duration":39471},"status":"passed","severity":"normal"}]
+[{"uid":"dfa714ba923f04e4","name":"Valid admin login","time":{"start":1778084294945,"stop":1778084325310,"duration":30365},"status":"passed","severity":"normal"},{"uid":"6761f63ef576fced","name":"Add admin user","time":{"start":1778084212719,"stop":1778084293847,"duration":81128},"status":"failed","severity":"normal"}]
